@@ -3,17 +3,17 @@ Python Script for Pimoroni's Unicorn HAT HD
 
 ### Randomly display/shows one of the following:
 
-Displays zzzZ during a certain time of the day.
+1. Displays zzzZ during a certain time of the day.
 
-Displays the Aperture Science Logo, from the videogame Portal, cycling through the HSV colour spectrum.
+2. Displays the Aperture Science Logo, from the videogame Portal, cycling through the HSV colour spectrum.
 
-Rainbow-coloured scrolltext.
+3. Rainbow-coloured scrolltext.
 
-Displays the Aperture Science Logo, from the videogame Portal, in animated rainbow colours, with sound.
+4. Displays the Aperture Science Logo, from the videogame Portal, in animated rainbow colours, with sound.
 
-A relaxing ingle, with sound.
+5. A relaxing ingle, with sound.
 
-CPU Temperature in °C, rainbow coloured unless temperatures exceed 55°C. Should the temperature rise above 55°C, it's displayed in red and an alarm sound is played.
+6. CPU Temperature in °C, rainbow coloured unless temperatures exceed 55°C. Should the temperature rise above 55°C, it's displayed in red and an alarm sound is played.
 
 Should you want to customize the rainbow coloured text, check out TEXT1 and change it to your heart's desire. Also check out FONT1 if you want to change the font used.
 
