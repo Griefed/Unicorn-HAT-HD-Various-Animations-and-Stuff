@@ -25,4 +25,6 @@ Should you want to customize the rainbow coloured text, check out TEXT1 and chan
 Also has some variables built-in, in case you want to keep track of how many times certain parts of this script have been called. Simply look for any line with a "#Uncomment if you want to keep track of how many times this part was executed" and uncomment it, as well as the corresponding lines at the very bottom of the script, which will print them when you exit.
 
 
-If you can't start the script, remember to ```bashsudo chmod +x aperture_party_zzzzz.py```
+If you can't start the script, remember to 
+```bash
+sudo chmod +x aperture_party_zzzzz.py```
