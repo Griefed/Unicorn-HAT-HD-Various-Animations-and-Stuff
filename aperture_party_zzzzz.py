@@ -16,7 +16,7 @@ degree_sign = u'\N{DEGREE SIGN}'
 
 print("Unicorn HAT HD: Various Animations")
 print(" ")
-print("Displays zZzZ during a certain time of the day.")
+print("Displays zZzZ between 22:00 and 08:00. Sleep-Mode, if you will.")
 print("The Aperture Science logo from Portal, cycling through the HSV colour spectrum.")
 print("Rainbow-Coloured scrolltext. Text can be customized.")
 print("The Aperture Science logo from Portal, lit by an animated rainbow, with sound.")
