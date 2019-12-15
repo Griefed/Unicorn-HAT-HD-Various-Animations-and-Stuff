@@ -28,3 +28,9 @@ Also has some variables built-in, in case you want to keep track of how many tim
 If you can't start the script, remember to 
 ```bash
 sudo chmod +x aperture_party_zzzzz.py
+``` 
+
+If you want to run the script in a screen (in the background)
+```bash
+screen -d -m -S Aperture ./aperture_party_zzzzz.py
+```
