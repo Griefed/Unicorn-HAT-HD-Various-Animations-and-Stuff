@@ -1,4 +1,4 @@
-# Unicorn-HAT-HD-Various-Animations-and-Stuff
+# Unicorn HAT HD: Various Animations, Displays and Text
 Python Script for Pimoroni's Unicorn HAT HD
 
 ### Randomly display/shows one of the following:
