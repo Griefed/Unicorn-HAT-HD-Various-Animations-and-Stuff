@@ -3,7 +3,7 @@ Python Script for Pimoroni's Unicorn HAT HD
 
 ### Randomly display/shows one of the following:
 
-1. Displays zzzZ 22:00 and 08:00. Sleep-Mode, if you will.
+1. Displays zzzZ between 22:00 and 08:00. Sleep-Mode, if you will.
 
 2. Displays the Aperture Science Logo, from the videogame Portal, cycling through the HSV colour spectrum.
 
