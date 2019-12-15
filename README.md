@@ -34,3 +34,9 @@ If you want to run the script in a screen (in the background)
 ```bash
 screen -d -m -S Aperture ./aperture_party_zzzzz.py
 ```
+
+
+If screen isn't installed on your system:
+```bash
+sudo apt-get install screen
+```
