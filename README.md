@@ -27,4 +27,4 @@ Also has some variables built-in, in case you want to keep track of how many tim
 
 If you can't start the script, remember to 
 ```bash
-sudo chmod +x aperture_party_zzzzz.py```
+sudo chmod +x aperture_party_zzzzz.py
