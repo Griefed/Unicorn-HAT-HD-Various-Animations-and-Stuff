@@ -70,8 +70,8 @@ pygame.mixer.pre_init(44100, -16, 2, 2048) #Pre-Initialize pygame and mixer BEFO
 pygame.init()
 
 #Everything related to the rainbow text:
-TEXT1 = 'Von der Erde bis zum Ende des Universums. Vom Ende des Universums bis zur Erde.'	#Enter your text here!
-FONT1 = ('/usr/share/fonts/truetype/RUNE.TTF', 12)	#Which Font to use
+TEXT1 = 'Von der Erde bis zum Ende des Universums. Vom Ende des Universums bis zur Erde.' #Enter your text here!
+FONT1 = ('/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', 12) #Which Font to use
 width, height = unicornhathd.get_shape() #Also used by switch == 3
 text1_x = 1
 text1_y = 1
