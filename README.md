@@ -1,7 +1,7 @@
 # Unicorn-HAT-HD-Various-Animations-and-Stuff
 Python Script for Pimoroni's Unicorn HAT HD
 
-Randomly display/shows one of the following:
+### Randomly display/shows one of the following:
 
 Displays zzzZ during a certain time of the day.
 
