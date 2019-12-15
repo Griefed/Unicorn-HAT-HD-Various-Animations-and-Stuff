@@ -90,11 +90,11 @@ text2_y = 0
 font_file2, font_size2 = FONT2
 font2 = ImageFont.truetype(font_file2, font_size2)
 degree_sign = u'\N{DEGREE SIGN}'
-HeatAlarm = pygame.mixer.Sound("/home/pi/Pimoroni/unicornhathd/examples/HeatAlarm.ogg")
+HeatAlarm = pygame.mixer.Sound("HeatAlarm.ogg")
 
 #Which image to open in case switch == 3
-img = Image.open('/home/pi/Pimoroni/unicornhathd/examples/fire_layer_1_flat.png')
-fire = pygame.mixer.Sound("/home/pi/Pimoroni/unicornhathd/examples/fire.ogg")
+img = Image.open('fire_layer_1_flat.png')
+fire = pygame.mixer.Sound("fire.ogg")
 
 #Everyhting related to the zzzz displayed only during certain times of a day:
 start = datetime.time(22, 0, 0)	#Start time at which the zzzz will be displayed, in Hours, Minutes, Seconds. (24, 0, 0 does NOT work)
@@ -110,7 +110,7 @@ brightness_levels = list(itertools.chain.from_iterable(pattern))
 #Everything relating to the Aperture Logo
 step = 0
 aperture = numpy.array(aperture)
-still_alive_radio = pygame.mixer.Sound("/home/pi/Pimoroni/unicornhathd/examples/Still_Alive_Radio_Loop.ogg")
+still_alive_radio = pygame.mixer.Sound("Still_Alive_Radio_Loop.ogg")
 
 #For keeping track of how many times certain parts were executed. Uncomment wanted parts below.
 zZzZ = 0	#For zzzz
