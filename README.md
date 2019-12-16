@@ -24,19 +24,20 @@ Should you want to customize the rainbow coloured text, check out TEXT1 and chan
 
 Also has some variables built-in, in case you want to keep track of how many times certain parts of this script have been called. Simply look for any line with a "#Uncomment if you want to keep track of how many times this part was executed" and uncomment it, as well as the corresponding lines at the very bottom of the script, which will print them when you exit.
 
+If you want to change the temperature at which alarms go off, look for the variable "warning" and edit it accordingly.
 
 If you can't start the script, remember to 
 ```bash
-sudo chmod +x aperture_party_zzzzz.py
+sudo chmod +x UHHD_VADT.py
 ``` 
 
 If you want to run the script in a screen (in the background)
 ```bash
-screen -d -m -S Aperture ./aperture_party_zzzzz.py
+screen -d -m -S VADT ./UHHD_VADT.py
 ```
 Re-attach to the screen using:
 ```bash
-screen -r Aperture
+screen -r VADT
 ```
 
 
