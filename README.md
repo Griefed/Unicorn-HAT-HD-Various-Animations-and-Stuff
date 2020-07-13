@@ -17,7 +17,7 @@ Python Script for Pimoroni's Unicorn HAT HD
 
 ### NOTICE:
 
-### You need to provide HeatAlarm.off, fire.ogg, Still_Alive_Radio.ogg YOURSELF!
+### You need to provide HeatAlarm.ogg, fire.ogg, Still_Alive_Radio.ogg YOURSELF!
 
 
 Should you want to customize the rainbow coloured text, check out TEXT1 and change it to your heart's desire. Also check out FONT1 if you want to change the font used.
