@@ -1,4 +1,7 @@
 # Unicorn HAT HD: Various Animations, Displays and Text
+
+[[_TOC_]]
+
 Python Script for Pimoroni's Unicorn HAT HD
 
 ### Randomly display/shows one of the following:
